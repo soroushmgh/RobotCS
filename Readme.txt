@@ -5,4 +5,4 @@ Please open the RobotCS.sln and you'll see there are 2 different projects under 
 1- RobotCS which is the main project
 2- RobotCsTest which is the unit test project
 
-And there are 2v Nuget packages included which will be downloaded by the VS automatically
+Please press F5 to run it in the Visual Studio
