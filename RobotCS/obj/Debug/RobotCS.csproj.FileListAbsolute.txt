@@ -1,0 +1,7 @@
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCS\bin\Debug\RobotCS.exe.config
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCS\bin\Debug\RobotCS.exe
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCS\bin\Debug\RobotCS.pdb
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCS\obj\Debug\RobotCS.csproj.CoreCompileInputs.cache
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCS\obj\Debug\RobotCS.exe
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCS\obj\Debug\RobotCS.pdb
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCS\obj\Debug\RobotCS.csprojAssemblyReference.cache

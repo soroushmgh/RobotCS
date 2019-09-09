@@ -1,0 +1,17 @@
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\bin\Debug\RobotCsTest.dll
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\bin\Debug\RobotCsTest.pdb
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\bin\Debug\RobotCS.exe
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\bin\Debug\RobotCS.pdb
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\bin\Debug\RobotCS.exe.config
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\obj\Debug\RobotCsTest.csprojAssemblyReference.cache
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\obj\Debug\RobotCsTest.csproj.CoreCompileInputs.cache
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\obj\Debug\RobotCsTest.csproj.CopyComplete
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\obj\Debug\RobotCsTest.dll
+C:\Users\mahdimozafarmoghadam\source\repos\RobotCS\RobotCsTest\obj\Debug\RobotCsTest.pdb
